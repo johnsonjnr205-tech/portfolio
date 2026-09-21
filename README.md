@@ -46,3 +46,5 @@ WhatsApp: Chat with me
 Or use the contact form directly on the live site.
 📄 License
 © 2026 Gift John Johnson. All Rights Reserved.
+successful project:
+https://roadmap.sh/projects/portfolio-website

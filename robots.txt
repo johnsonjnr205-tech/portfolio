@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://Gift-john-johndo.nelify.app/sitemap.xml
+Sitemap: https://gift-john-johnson.netlify.app/sitemap.xml
